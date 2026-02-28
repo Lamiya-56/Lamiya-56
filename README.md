@@ -1,6 +1,4 @@
-<div align="center" style="height:400px; overflow:hidden;">
-  <img src="https://miro.medium.com/v2/1*wkm_bGBbPBbB4oonR-GMEQ.gif" width="80%" style="margin-top:-60px;">
-</div>
+![Demo](gifforgithub.gif)
 <h1 align="center">Hi 👋, I'm Lamiya Salahova</h1>
 <h3 align="center">IT student exploring data and analytics</h3>
 
