@@ -12,9 +12,12 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="max-width: 400px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/pandas.svg" alt="pandas" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/polars.svg" alt="polars" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/numpy.svg" alt="numpy" width="40" height="40"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
 </p>
